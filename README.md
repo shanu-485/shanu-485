@@ -1,12 +1,14 @@
 # 👋 Hi, I'm Shanu Maurya
 
-### ☁️ Cloud & AI Infrastructure Engineer in Progress
+### Cloud & AI Infrastructure Engineer in Progress ☁️
 
-> *Building cloud infrastructure today. Creating AI platforms tomorrow.*
+I'm a Computer Science student passionate about Cloud Computing, Linux, DevOps, Platform Engineering, and AI Infrastructure.
+
+My long-term goal is to build scalable cloud infrastructure and eventually create my own AI Cloud Platform company.
 
 ---
 
-## 🚀 Mission 2028
+# 🚀 Career Roadmap
 
 ```text
 Cloud Computing
@@ -19,66 +21,67 @@ Platform Engineering
         ↓
 Infrastructure Products
         ↓
-Cloud Platform Company
+AI Cloud Platform Founder
 ```
 
 ---
 
 # 🙋 About Me
 
-I'm a Computer Science student passionate about designing scalable cloud systems and learning modern infrastructure technologies.
-
-Currently, I'm building strong fundamentals in **Linux, Git, Python, Computer Networks, and AWS** while documenting everything I learn on GitHub.
-
-My long-term goal is to become an **AI Cloud Infrastructure Engineer** and eventually build my own cloud platform company.
+- 🎓 B.Tech Computer Science Student
+- 🌍 Based in Lucknow, India
+- ☁️ Learning Cloud Engineering step by step
+- 💻 Building projects to strengthen practical skills
+- 📖 Believer in continuous learning
+- 🎯 Mission: Build infrastructure that powers AI applications
 
 ---
 
 # 📚 Currently Learning
 
-- Linux Administration
+- Linux
 - Git & GitHub
 - Python
 - Computer Networks
+- Operating Systems
 - AWS Cloud Fundamentals
 
 ---
 
-# 🎯 Learning Next
+# 🎯 Next Technologies
 
 - Docker
 - Kubernetes
 - Terraform
-- CI/CD
-- Monitoring
+- GitHub Actions
+- Jenkins
+- Prometheus
+- Grafana
+- FastAPI
 - Platform Engineering
-- AI Infrastructure
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Technical Skills
 
-### Languages
+## Languages
 
 - Python
 - SQL
 - Bash (Learning)
 
-### Operating Systems
+## Operating Systems
 
 - Linux
 - Windows
 
-### Version Control
+## Cloud & DevOps
 
+- AWS (Learning)
 - Git
 - GitHub
 
-### Cloud
-
-- AWS (Learning)
-
-### Tools
+## Tools
 
 - VS Code
 - GitHub Desktop
@@ -86,105 +89,64 @@ My long-term goal is to become an **AI Cloud Infrastructure Engineer** and event
 
 ---
 
-# 📂 Featured Repositories
+# 📂 Current Projects
 
-### 📘 Linux
+### 📘 Linux Notes
 
-Linux commands, shell basics, permissions, users, networking, storage and practice.
+Notes and commands collected while learning Linux.
 
----
+### 🐍 Python Practice
 
-### 🐍 Python
+Small Python programs for problem solving and automation.
 
-Automation scripts, problem solving and cloud-related Python projects.
+### 🌐 Networking Labs
 
----
+Computer networking concepts and practical exercises.
 
-### 🌐 Computer Networks
+### ☁️ AWS Projects *(Coming Soon)*
 
-Networking concepts, protocols, routing, switching and practical notes.
+Hands-on AWS practice projects.
 
----
+### 🐳 Docker Labs *(Coming Soon)*
 
-### ☁ AWS
+Containerization practice.
 
-Hands-on AWS learning journey with real cloud projects.
+### ☸ Kubernetes Labs *(Coming Soon)*
 
----
-
-### 🚀 Future Projects
-
-- Docker Labs
-- Kubernetes Labs
-- Terraform Infrastructure
-- CI/CD Pipelines
-- Monitoring Stack
-- AI Cloud Infrastructure
+Cluster deployment and orchestration practice.
 
 ---
 
 # 📜 Certifications
 
-### Preparing
-
-- AWS Certified Cloud Practitioner
-
-### Planned
-
-- AWS Certified Solutions Architect – Associate
+- AWS Certified Cloud Practitioner *(Planned)*
+- AWS Solutions Architect Associate *(Future Goal)*
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Goals for 2026
 
-- Master Linux
-- Learn AWS Cloud
-- Build 10+ Cloud Projects
-- Complete Docker & Kubernetes
-- Learn Terraform
+- Master Linux fundamentals
+- Build strong networking knowledge
+- Learn AWS Cloud deeply
+- Complete 10+ Cloud Projects
+- Build a professional GitHub portfolio
 - Contribute to Open Source
-- Build a Professional GitHub Portfolio
 
 ---
 
 # 🌱 Long-Term Vision
 
-My vision is to design scalable cloud infrastructure, build developer platforms, and create infrastructure products that help developers deploy AI applications faster.
-
-Ultimately, I aim to build my own AI-powered Cloud Platform Company.
+To design scalable cloud infrastructure, build developer platforms, and launch an AI Cloud Platform company that solves real-world infrastructure challenges.
 
 ---
 
-# 📈 GitHub Journey
+# 📫 Connect
 
-Every repository on this profile represents one step in my learning journey.
-
-Instead of only collecting certificates, I'm focused on building practical projects, documenting my learning, and improving consistently.
-
----
-
-# 📫 Contact
+📧 Email: **mrshanu485@gmail.com**
 
 📍 Lucknow, Uttar Pradesh, India
 
-📧 **mrshanu485@gmail.com**
-
 ---
 
-# 💡 Philosophy
-
-> "Small improvements every day become extraordinary results over time."
-
----
-
-### ⭐ Mission
-
-```
-Learn → Build → Share → Improve → Repeat
-```
-
----
-
-Thanks for visiting my profile.
-
-Let's build the future of cloud infrastructure. ☁️🚀
+> *"Every project I build is another step toward becoming a Cloud & AI Infrastructure Engineer."*
