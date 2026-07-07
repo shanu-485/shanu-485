@@ -44,17 +44,11 @@ Infrastructure Products
 
 ---
 
-# 🎯 Next Technologies
+# 🛠 Tech Stack
 
-- Docker
-- Kubernetes
-- Terraform
-- GitHub Actions
-- Jenkins
-- Prometheus
-- Grafana
-- FastAPI
-- Platform Engineering
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux,git,github,python,bash,aws,docker,kubernetes,terraform,vscode,fastapi" />
+</p>
 
 ---
 
