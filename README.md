@@ -4,9 +4,7 @@
 
 I'm a Computer Science student passionate about Cloud Computing, Linux, DevOps, Platform Engineering, and AI Infrastructure.
 
-My long-term goal is to build scalable cloud infrastructure and eventually create my own AI Cloud Platform company.
-
----
+My long-term goal is to build scalable cloud infrastructure
 
 # 🚀 Career Roadmap
 
@@ -20,9 +18,7 @@ AI Cloud Infrastructure
 Platform Engineering
         ↓
 Infrastructure Products
-        ↓
-AI Cloud Platform Founder
-```
+       
 
 ---
 
